@@ -4,4 +4,5 @@ All the codes to reproduce the results from "Quantifying individual and team per
 
 Authors: Onkar Sadekar, Sandeep Chowdhary, M.S. Santhanam, and Federico Battiston
 
-[arXiv](https://arxiv.org/abs/2401.15161) and [twitter thread](https://x.com/OnkarSadekar/status/1752226570884755817?s=20)
+- [arXiv](https://arxiv.org/abs/2401.15161)
+- [twitter thread](https://x.com/OnkarSadekar/status/1752226570884755817?s=20)
